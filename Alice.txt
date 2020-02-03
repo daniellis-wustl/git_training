@@ -1,7 +1,8 @@
 Hi!! I'm Alice. I'm a file someone added to this repository a while ago.
-Add text to second line of Alice.txt
+Hello there general kenobi
 Making change to alice for merge diverge example
 make change for rebase example
 Add change from git repo!!!
 changes to practice pull rebase
 add text for interactive rebase practice
+This is the first change
